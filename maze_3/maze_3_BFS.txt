@@ -1,6 +1,6 @@
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-x                                                                           x
-xxxxxxx            x     xxxxxxxxxxxxxxxxxxxx                               x
+x +                                                                         x
+xxxxxxx+           x     xxxxxxxxxxxxxxxxxxxx                               x
 x                  x   xxx                  x                               x
 x           xxx    x                        x      xxxx        xxxxxx       x
 x                  x           xxx          x          x          xx        x
@@ -9,9 +9,10 @@ x                  x               xxxx*xxxxx      xxxxx                    x
 x                  x       x           *    x          x                    x
 x        x         x           xxxx    *    x      xxxxx                    x
 xxxxxx   x         x         x         *xxxxx                               x
-x        x         x         x         **   x        xxxxxx                 x
-x     xxxxxxxx     x      xxxx          * x x                               x
+x        x         x         x        +**   x        xxxxxx                 x
+x     xxxxxxxx     x      xxxx         +*+x x                               x
 x        x         xxxxxxxxxxxxxxxxxxxxx*xxxx                               x
 x        x                              *****************                   x
 x                                                       *                   x
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxExxxxxxxxxxxxxxxxxxxx
+Do dai duong di la: 27
