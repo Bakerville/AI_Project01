@@ -1,3 +1,4 @@
+#Thuat toan BFS
 def BFS(matrix,start,end):
     path=[]
     explored={}
@@ -39,6 +40,9 @@ def BFS(matrix,start,end):
                     frontier[k]=res
             k+=1
     return cost, len(explored), path
+
+#Thuat toan DFS
+
 def DFS(matrix,start,end):
     path=[]
     explored={}
@@ -81,6 +85,9 @@ def DFS(matrix,start,end):
         temp.update(frontier)
         frontier=temp
     return cost, len(explored), path
+
+#Thuat toan GBFS
+
 def GBFS(matrix, start,end,h):
     path = []
     explored = {}
@@ -122,6 +129,9 @@ def GBFS(matrix, start,end,h):
             k+=1
         frontier = dict(sorted(frontier.items(), key= lambda item: item[1][1]))
     return cost, len(explored), path
+
+#Thuat toan A*
+
 def A_star(matrix,start,end,h):
     path=[]
     explored={}
