@@ -1,0 +1,20 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                  x                            x                           x
+x OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOE
+x O                x                            x                           x
+x O                x                            x           x               x
+x O                x                            x           x               x
+x O      xxx       x                            x           x               x
+x O                x                            x           x               x
+x O                x                            x           x               x
+x O      x         x                            x           x               x
+x S      x         x                            xxxxxxxxxx  xxxxxxxxxx xxxxxx
+x        x         x                                      xx                x
+x     xxxxxxxx     x                                      x                 x
+x        x         x                                     x                  x
+x        x         +                                      x                 x
+x                                                          x                x
+x                  +                                                        x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Do dai duong di la: 82
+Chi phi thuc hien: 1081

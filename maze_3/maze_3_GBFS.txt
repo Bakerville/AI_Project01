@@ -1,18 +1,19 @@
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-x +                                                                         x
-xxxxxxx+           x     xxxxxxxxxxxxxxxxxxxx                               x
-x                  x   xxx                  x                               x
-x           xxx    x                        x      xxxx        xxxxxx       x
-x                  x           xxx          x          x          xx        x
-x        xxx       x                   S    x          x                    x
-x                  x               xxxx*xxxxx      xxxxx                    x
-x                  x       x           *    x          x                    x
-x        x         x           xxxx    *    x      xxxxx                    x
-xxxxxx   x         x         x         *xxxxx                               x
-x        x         x         x        +**   x        xxxxxx                 x
-x     xxxxxxxx     x      xxxx         +*+x x                               x
-x        x         xxxxxxxxxxxxxxxxxxxxx*xxxx                               x
-x        x                              ****************                    x
-x                                                      **                   x
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxExxxxxxxxxxxxxxxxxxxx
-Do dai duong di la: 27
+x                                                                           x
+x                                                                           x
+xOOOOOOOOOOOOOO                   xxxxxxxxxxxxxxxx                          x
+EO+     xxxxxxOO                                 x                          x
+x+      x     xOO                                x                          x
+x++     x      xOO                               x                          x
+x       x       xOO                              x                          x
+x xxxxxxxx       xOO                             x                          x
+x       x         xOO                            x                          x
+xxxxxxxxx          xOO                           x                          x
+SOOOOOOOx           xOO                          x                          x
+x      Ox            xOO                         x                          x
+x      OxxxxxxxxxxxxxxxO                         x                          x
+x      OOOOOOOOOOOOOOOOO                         x                          x
+x                                                x                          x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Do dai duong di la: 55
+Chi phi thuc hien: 101

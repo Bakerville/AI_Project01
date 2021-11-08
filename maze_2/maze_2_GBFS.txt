@@ -1,0 +1,19 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x +                                                                         x
+xxxxxxx+           xxxxxxxxxxxxxxxxxxxxxxxxxx                               x
+x   +              x   xxxOOOOOOOOOOOOS     x                               x
+EO          xxx    xOOOOOOO                 x      xxxx        xxxxxx       x
+xOO                xO          xxx          x          x          xx        x
+x OO     xxx       xO            x          x          x                    x
+x  OO              xO              xxxx xxxxx      xxxxx                    x
+x   OO             xO      x                x          x                    x
+x    OO  x         xOOOOOOOOOOOxxxx         x      xxxxx                    x
+xxxxxxO  x         x         xO         xxxxx                               x
+x    OO  x         x         xO             x        xxxxxx                 x
+x    Oxxxxxxxx     x      xxxxOOOOOOOOOOO x x                               x
+x    OOOOx         xxxxxxxxxxxxxxxxxxxxxOxxxx                               x
+x       OxOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                                   x
+x       OOO                                                                 x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Do dai duong di la: 103
+Chi phi thuc hien: 257

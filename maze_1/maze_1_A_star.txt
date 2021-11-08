@@ -1,0 +1,19 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x +                                                                         x
+xxxxxxx+           x     xxxxxxxxxxxxxxxxxxxx                               x
+x                  x   xxx                  x                               x
+x           xxx    x                        x      xxxx        xxxxxx       x
+x                  x           xxx          x          x          xx        x
+x        xxx       x                   S    x          x                    x
+x                  x               xxxxOxxxxx      xxxxx                    x
+x                  x       x           O    x          x                    x
+x        x         x           xxxx    O    x      xxxxx                    x
+xxxxxx   x         x         x         Oxxxxx                               x
+x        x         x         x        +O    x        xxxxxx                 x
+x     xxxxxxxx     x      xxxx         OO+x x                               x
+x        x         xxxxxxxxxxxxxxxxxxxxxOxxxx                               x
+x        x                              OOOOOOOOOOOOOOOO                    x
+x                                                      OO                   x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxExxxxxxxxxxxxxxxxxxxx
+Do dai duong di la: 25
+Chi phi thuc hien: 97

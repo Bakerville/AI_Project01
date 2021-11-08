@@ -1,0 +1,22 @@
+3
+14 19 -1
+16 19 -3
+10 2 0
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                  x                            x                           x
+x                  x                            x                            
+x                  x                            x                           x
+x                  x                            x           x               x
+x                  x                            x           x               x
+x        xxx       x                            x           x               x
+x                  x                            x           x               x
+x                  x                            x           x               x
+x +      x         x                            x           x               x
+x S      x         x                            xxxxxxxxxx  xxxxxxxxxxxxxxxxx
+x        x         x                                      xx                x
+x     xxxxxxxx     x                                      x                 x
+x        x         x                                     x                  x
+x        x         +                                      x                 x
+x                                                          x                x
+x                  +                                                        x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,19 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x +                                                                         x
+xxxxxxx+           xxxxxxxxxxxxxxxxxxxxxxxxxx                               x
+xOOOO              x   xxx            S     x                               x
+EO  O       xxx    x                  O     x      xxxx        xxxxxx       x
+x   O              x           xxx    O     x          x          xx        x
+x   O    xxx       x             x    OO    x          x                    x
+x   O              x               xxxxOxxxxx      xxxxx                    x
+x   OOOOOOO        x       x           O    x          x                    x
+x        xO        x           xxxx    O    x      xxxxx                    x
+xxxxxx   xO        x         x         Oxxxxx                               x
+x        xOOOOO    x         x         O    x        xxxxxx                 x
+x     xxxxxxxxO    x      xxxx         OO x x                               x
+x        x    O    xxxxxxxxxxxxxxxxxxxxxOxxxx                               x
+x        x    OOOOOOOOOOOOOOOOOOOOOOOOOOO                                   x
+x                                                                           x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Do dai duong di la: 44
+Chi phi thuc hien: 441
